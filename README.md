@@ -19,3 +19,6 @@
 **Note:**  
 Original order numbers (101, 102, 103) were replaced with technical IDs (1, 2, 3) as primary keys for normalization.
 ![Third normal form](images/3nf.png)
+
+# ER-діаграма
+![ER-diagram](images/er_diagram.png)
