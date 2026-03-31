@@ -23,7 +23,7 @@ Original order numbers (101, 102, 103) were replaced with technical IDs (1, 2, 3
 ![Third normal form](images/3nf.png)
 
 # ER-діаграма
-![ER-diagram](images/er_diagram.png)
+![ER-diagram](images/er_diagram_1.png)
 
 # Таблиці в базі даних
-![DB_Tables](images/db_tables.png)
+![DB_Tables](images/db_tables_1.png)
